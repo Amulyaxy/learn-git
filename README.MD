@@ -10,3 +10,4 @@ developer spends some time and pushes to git lot of time as part of development
 # Rebase
 * rebase is another merge stratergy
 * developing still
+* now development completed
